@@ -10,7 +10,7 @@ public class MockLineByLineConnector implements DeviceConnector {
 
     public static final String SAMPLES_SUBDIR = "samples/line-by-line";
 
-    private static final int SLEEP_MILLIS = 1000;
+    private static final int SLEEP_MILLIS = 100;
 
     private final MessageHandler messageHandler;
     private final AssetManager assets;
