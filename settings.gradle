@@ -1,4 +1,3 @@
 // note: ./scripts/build.sh detects the project name from the first include
-include ':bluetoothviewer'
-include ':bluetoothviewer-lite'
-include ':bluetoothviewer-full'
+include ':hitdetector-lib'
+include ':hitdetector'
