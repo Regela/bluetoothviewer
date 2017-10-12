@@ -1,4 +1,4 @@
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.bluetooth.BluetoothAdapter;
 

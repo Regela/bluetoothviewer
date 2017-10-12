@@ -1,8 +1,8 @@
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.content.res.AssetManager;
 
-import net.hitdetecter.util.AssetUtils;
+import net.hitdetector.util.AssetUtils;
 
 import java.util.List;
 

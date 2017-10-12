@@ -1,10 +1,10 @@
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceFragment;
 
-import net.hitdetecter.library.R;
+import net.hitdetector.library.R;
 
 
 public class SettingsActivity extends PreferenceActivity {

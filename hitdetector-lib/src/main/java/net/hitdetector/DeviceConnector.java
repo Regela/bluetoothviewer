@@ -1,4 +1,4 @@
-package net.hitdetecter;
+package net.hitdetector;
 
 /**
  * Common interface to connect to a device

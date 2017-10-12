@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -34,8 +34,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 
-import net.hitdetecter.library.R;
-import net.hitdetecter.util.AssetUtils;
+import net.hitdetector.library.R;
+import net.hitdetector.util.AssetUtils;
 
 import java.util.HashSet;
 import java.util.Set;

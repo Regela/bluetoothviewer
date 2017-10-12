@@ -1,4 +1,4 @@
-package net.hitdetecter.util;
+package net.hitdetector.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;

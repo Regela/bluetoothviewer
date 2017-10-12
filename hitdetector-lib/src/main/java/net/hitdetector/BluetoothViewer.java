@@ -12,7 +12,7 @@
      limitations under the License.
 */
 
-package net.hitdetecter;
+package net.hitdetector;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -42,9 +42,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import net.hitdetecter.library.R;
-import net.hitdetecter.util.ApplicationUtils;
-import net.hitdetecter.util.EmailUtils;
+import net.hitdetector.library.R;
+import net.hitdetector.util.EmailUtils;
 
 public class BluetoothViewer extends Activity implements SharedPreferences.OnSharedPreferenceChangeListener {
 

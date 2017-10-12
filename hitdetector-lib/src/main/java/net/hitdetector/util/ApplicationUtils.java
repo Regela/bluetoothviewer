@@ -1,8 +1,8 @@
-package net.hitdetecter.util;
+package net.hitdetector.util;
 
 import android.app.Application;
 
-import net.hitdetecter.application.HitDetectorLibApplication;
+import net.hitdetector.application.HitDetectorLibApplication;
 
 public class ApplicationUtils {
     private ApplicationUtils() {

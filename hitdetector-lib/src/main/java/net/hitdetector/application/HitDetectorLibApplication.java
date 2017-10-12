@@ -1,4 +1,4 @@
-package net.hitdetecter.application;
+package net.hitdetector.application;
 
 import android.app.Application;
 

@@ -1,4 +1,4 @@
-package net.hitdetecter.util;
+package net.hitdetector.util;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,7 +7,7 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.util.Log;
 
-import net.hitdetecter.library.R;
+import net.hitdetector.library.R;
 
 import java.io.File;
 import java.io.FileOutputStream;

@@ -1,4 +1,4 @@
-package net.hitdetecter.application;
+package net.hitdetector.application;
 
 public class HitDetectorApplication extends HitDetectorLibApplication {
 

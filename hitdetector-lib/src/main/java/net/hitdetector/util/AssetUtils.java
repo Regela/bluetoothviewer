@@ -1,4 +1,4 @@
-package net.hitdetecter.util;
+package net.hitdetector.util;
 
 import android.content.res.AssetManager;
 import android.util.Log;
